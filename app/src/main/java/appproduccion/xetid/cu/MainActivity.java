@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //comentario de prueba para git
+        //comentario de prueba para git desde la web
     }
 }
